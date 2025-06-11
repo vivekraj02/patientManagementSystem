@@ -1,8 +1,8 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   margin: 0;
   padding: 0;
-  background: #f0f0f0;
+  background: lavender;
 }
 .wrapper {
   min-height: 100vh;
@@ -13,8 +13,8 @@ main {
   flex: 1;
 }
 header, footer {
-  background-color: #007bff;
-  color: white;
+  background-color: purple;
+  color: lavenderblush;
   padding: 1em;
   text-align: center;
 }
@@ -28,7 +28,7 @@ nav li {
   margin: 0 10px;
 }
 nav a {
-  color: white;
+  color: violet;
   text-decoration: none;
 }
 form {
